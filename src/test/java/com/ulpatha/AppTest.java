@@ -1,4 +1,4 @@
-package com.kranasinghe;
+package com.ulpatha;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

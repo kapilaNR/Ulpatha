@@ -1,0 +1,24 @@
+{
+  "name":"Sales metadata",
+  "version":"1.0.0",
+  "description":"Sales data store meta data schema",
+  "size":10,
+  "metaData":[
+    {
+      "name":"CustomerName",
+      "type":"String",
+      "length":"12"
+    },
+    {
+      "name":"Amount",
+      "type":"Integer",
+      "length":"5"
+    },
+    {
+      "name":"Time",
+      "type":"String",
+      "length":"20"
+    }
+
+  ]
+}
